@@ -1,0 +1,8 @@
+# Contact with Internal and External Providers
+
+_General Information_: You are responsible for maintaining the confidentiality of your clients' records.  You have no business in records not assigned to you nor does anyone have the right to hear stories about your client.  
+
+* Do not leave titanium unattended in any work area.
+* Do not look in files that are not assigned to you.
+* If you uncover protected health information (PHI), then do your best to protect the information and alert staff.
+* Do not talk about your clients with other providers. 

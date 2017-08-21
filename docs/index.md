@@ -8,7 +8,6 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: jdbedics/dbtpracticum
-url: 'http\://seankross.com/bookdown-start/'
 description: "Everything you need to know to successfully complete the DBT Practicum at CLU."
 cover-image: "images/birds.png"
 ---
@@ -16,3 +15,5 @@ cover-image: "images/birds.png"
 # Preface {-}
 
 Welcome to the DBT Practicum at CLU!  The following pages include some procedures and tips for the successful completion of the practicum.
+
+![Welcome To DBT at CLU!](images/birds.png)
