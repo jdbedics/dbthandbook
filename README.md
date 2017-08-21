@@ -1,1 +1,1 @@
-Initial try at a DBT Practicum Handbook Using Bookdown.
+DBT Practicum Handbook for the DBT Program at California Lutheran University.
