@@ -15,7 +15,6 @@
 * When writing notes, do not leave your computer unattended without logging off. 
 * Do not email anything about your clients with other providers or your supervisor (even if you use initials).
 
-i.	For example, it’s common for a student to email/text their supervisor about client “SB” and provide a lengthy description of the circumstances.  
-
-ii.	Solution:  Email or text “Do you have a moment to chat about a client”    
+    i.	For example, it’s common for a student to email/text their supervisor about client “SB” and provide a lengthy description of the circumstances.  
+    ii.	Solution:  Email or text “Do you have a moment to chat about a client”    
 

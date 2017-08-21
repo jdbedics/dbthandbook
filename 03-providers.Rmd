@@ -20,18 +20,6 @@ It's a natural urge to want to dicuss clients in the clinic. Please avoid doing 
 * Do not discuss your client in any detail in an email or text message.  Instead, email or text that you'd like to talk about a client.
 * Never take material relatd to the client outside of the office.
 
-## Phone Conversations
-
-When you call a client or if someone calls you about a client, you cannot confirm that you know the client without a release of information.
-
-Someone calls you:
-_"I hear your concern, I cannot confirm that someone is or is not a client in the clinic and so I cannot respond to your questions.  If you are concerned for safety, then I can provide general recommendations."_
-
-You call the client and someone else picks up:
-_"Hi. Is <client name> there? No, no message.  I'll try again.  I can't say who this is but thank you.  I'll try again"_
-
-It's all incredibly awkward and is why it's best to establish phone contact rules at the first session.
-
 ## Client Requests that you Talk to other people (provider, family, etc.)
 
 1. Talk to Dr. Bedics

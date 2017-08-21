@@ -1,4 +1,16 @@
 # Phone Contact with Clients
 
-1. If a client misses a session then call the client and leave a voicemail.  
-* do not mention
+
+## Missed Session
+If a client misses a session then call the client and leave a voicemail. Remind them of your session and the 24-hour cancellation rule.  They will have to pay for two sessions at their next individual.  Ask them to confirm within three days that they will attend the next session to avoid future fees if they cannot make that time. 
+
+##  You call the client but someone else picks up.
+_"Hi. Is <client name> there? No, no message.  I'll try again.  I can't say who this is but thank you.  I'll try again"_
+
+##  Someone calls (or emails) you about the client :
+_"I hear your concern, I cannot confirm that someone is or is not a client in the clinic and so I cannot respond to your questions.  If you are concerned for safety, then I can provide general recommendations."_
+
+These situations are often awkward. The earlier you establish how to manage these situations the better.  
+
+## Phone Coaching as an intervention
+Unless you have approval by Dr. Bedics for phone coaching in DBT, then you do not use the phone for anything but scheduling with your client.  
