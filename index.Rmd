@@ -12,7 +12,7 @@ description: "Everything you need to know to successfully complete the DBT Pract
 cover-image: "docs/images/birds.png"
 ---
 
-## Preface {-}
+# Preface {-}
 
 Welcome to the DBT Practicum at CLU!  The following pages include some procedures and tips for the successful completion of the practicum.
 
