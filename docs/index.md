@@ -1,6 +1,6 @@
 --- 
 title: "DBT Practicum Handbook At California Lutheran University"
-author: "Jamie Bedics"
+author: "Jamie Bedics, Ph.D., ABPP"
 date: "2017-08-21"
 site: bookdown::bookdown_site
 documentclass: book
@@ -9,7 +9,7 @@ biblio-style: apalike
 link-citations: yes
 github-repo: jdbedics/dbtpracticum
 description: "Everything you need to know to successfully complete the DBT Practicum at CLU."
-cover-image: "images/birds.png"
+cover-image: "docs/images/birds.png"
 ---
 
 # Preface {-}
