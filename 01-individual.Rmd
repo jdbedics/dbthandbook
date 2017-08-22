@@ -9,7 +9,7 @@ The following are some tips for the first and initial sessions for all clients.
 2. Review the logistics at the very beginning
 
 * Set fee. Ask client to bring in proof of income
-* Do not bring up or mention reduced fee option.  Defer and say that you can talk to your suprvisor if asked. 
+* Do not bring up or mention reduced fee option.  If asked, ask the reason and for how long they would expect to have the reduction. It would be time-limited.  The tell them you will talk to your supervisor.
 * Collect Fee.
 * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason.  If they have even a slightly itchy throat then they should cancel as early as possible.
 * Review confidentiality and privacy.  
@@ -28,10 +28,9 @@ The following are some tips for the first and initial sessions for all clients.
 
 ## Missed Session
 
-1. Call the number you confirmed to be the best number to reach them
-2. If a client misses a session, call and leave voicemail.  
-3. Never say the clinic in a phone message unless the client said it's okay.  
-  * By default say “This is _your first name_ calling.  We had an appointment at 11:00AM.  Since I didn't hear from you in 24-hours, you'll be charged with a miss session.  You'll be charged for two sessions the next time I see.  Please call to confirm your next appointment by Friday at 5PM."
-  * You might add: "If I don't hear from by that time then I'll assume you are no longer interested in treatment and I'll close your file.  You can always re-initiate treatment at anytime."
+1. If a client misses a session, call and leave voicemail.  
+2. Never say the clinic in a phone message unless the client said it's okay.  
+  * By default say “This is _your first name_ calling.  We had an appointment at 11:00AM.  Since I didn't hear from you in 24-hours, i wanted to remind you that you'll be charged with a miss session.  The next time that you come in you'll have to pay double."
+  * You might add: "Please call to confirm your next appointment by Friday at 5PM. If I don't hear from you by that time then I'll assume you are no longer interested in treatment and I'll close your file.  You can always re-initiate treatment at anytime."
 
 
