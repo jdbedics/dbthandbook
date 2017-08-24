@@ -1,5 +1,16 @@
 # DBT Skills Training Tips
 
+## General Requirements
+
+1. Co-leaders always conduct mindfulness.  
+2. Co-leaders always write an agenda for the teaching portion of the class.
+3. Co-leaders check on late clients and call clients who missed with the exact HW from the week. 
+4. Only the leader and co-leader participate and speak in class. 
+5. The person waiting to become co-leader completes all the notes.
+6. All therapist complete the unofficial DBT Skills Training Adherence Checklist.
+
+## Module Content: Jamie's Tips
+
 The following is content that can be included in the teaching portion of your class.  Feel free to use any of the ideas in your agenda.  The majority of material is taken directly from the teaching manual.  I do my best to adhere to the following points:
 
 1.	Context through which the skill is being taught.
