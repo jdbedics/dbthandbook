@@ -2,56 +2,60 @@
 
 ## General Points
 
-* Unless you're told by Jamie, all your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic.  They are receiving behavior therapy.
-* There will always be a client note for every scheduled contact hour and for every phone contact including scheduling.  
+* Unless you're told by Jamie, all your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy.
+
+* Always write a client note for every scheduled contact hour and for every phone contact including those that involve scheduling.  
+
 * Start and end on time for everything.  It helps to be prepared.
 
 ## First Session Checklist
 
 1. Review Jamie's Safety Planning [Presentation](https://speakerdeck.com/jdbedics/clu-clinic-orientation-on-safety-planning) before meeting with client.  Conduct safety planning as needed. 
 
-* Always carry the *essential* sheets with you to every session.
+    * Always carry the *essential* sheets with you to every session.
 
 2. Checklist:
 
-* Set fee. Ask client to bring in proof of income
-* Do not bring up or mention reduced fee option.  If asked, ask the reason and for how long they would expect to have the reduction. Tell them you will talk to your supervisor.
-* Always collect Fee at the beginning of session.
-* Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason.  If they have even a slightly itchy throat then they should cancel as early as possible.
-* Review confidentiality and privacy.  
-* Ask if they are hoping their records will be used for anything in the future.
-* Would they like for you to talk to someone important to them?
-* Remind them they will complete the OQ before every session.  Orient them and make sure they are set up with a userid and password.  Help your client with this and they will have less difficulty completing it.
-* Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
-* Remind them that you start at the top of the hour and sessions last 45-minutes.  You can tell them that you manage time and will look at the clock and comment on time as you proceed.  The goal is to make sure they are getting what they want out of the session and are covering everything they intended to have covered.
-* Complete the DBT General Note.
+    * Set fee. Ask client to bring in proof of income
+    * Do not bring up or mention reduced fee option.  If asked, ask the reason and for how long they would expect to have the reduction. Tell them you will talk to your supervisor.
+    * Always collect Fee at the beginning of session.
+    * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason.  If they have even a slightly itchy throat then they should cancel as early as possible.
+    * Review confidentiality and privacy.  
+    * Ask if they are hoping their records will be used for anything in the future.
+    * Would they like for you to talk to someone important to them?
+    * Remind them they will complete the OQ before every session.  Orient them and make sure they are set up with a userid and password.  Help your client with this and they will have less difficulty completing it.
+    * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
+    * Remind them that you start at the top of the hour and sessions last 45-minutes.  You can tell them that you manage time and will look at the clock and comment on time as you proceed.  The goal is to make sure they are getting what they want out of the session and are covering everything they intended to have covered.
+    * Complete the DBT General Note.
 
 3. You're allowed to take written notes, use a clipboard, and write on the white board.  
 
 ## Continuing Sessions
 
 1. Set the recording up early.  Minimize the screen or turn the monitor off.
-2. Do not start the session until your client completes the OQ.  Help your client become successful at completing the OQ. Support and encourage and help them remember _how_ to do it. 
+2. Do not start the session until your client completes the OQ.  
+    * Help your client become successful at completing the OQ. Support and encourage and help them remember _how_ to do it. 
 3. You might have a therapist in the room before you that ends their sessions late.  Ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to Jamie or clinic staff.
-4. Do not fall behind on your notes more than *one* week. 
+4. Complete all notes within *one* week. 
 5. Use the DBT General Note for individual sessions.  This is the standard note for your clients when you are supervised by Jamie. 
 
 ## Missed Individual Sessions
 
 1. If a client misses a session, call and leave a voicemail. 
 2. Write a note for all sessions, even canceled.  Be clear what you did as a result. See the section on [phone notes](phone-contact-with-clients.html).
+  
 
 ## Setting Goals
 
-It is not your clients job to come into session with goals.  Instead, listen to their concerns and attempt to make them into solvable problems. You never have to use the term _goal_ or ask your client _"What's you're goal_?  The goals naturally reveal themselves as you listen to what's on your clients' minds.
+It is not your clients job to come into session with goals.  Instead, listen to your clients' concerns and attempt to make them into solvable problems. You never have to use the term _goal_ or ever ask your client _"What's you're goal_?  The goals naturally reveal themselves as you listen to what's on your clients' minds and shape them into solvable problems.
 
 ## Termination of Treatment
 
-* After 2-3 sessions, let your client know you're plan for intervention along with a timeline.
-* Establish a timeline for the end of the treatment.  Treatment will be reassessed at that point and could be extended if client would like to address additional areas.
+* After 2-3 sessions, let your client know you're plan for intervention along with a timeline for termination.
+* Let your client know that treatment will be reassessed at that point and could be extended if the client would like to address additional areas.
 * When there is a a month left in treatment, remind the client every session that treatment is ending. 
 * In _DBT only_, discuss the concept of ex-therapist for life. 
 
-## Any Concerns about Treatment, at all.
+## Call or text Jamie
 
-* Text or call Jamie is the safest and most appropriate thing that you can do.
+* Please do not hesitate to call or text Jamie with any concerns.

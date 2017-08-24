@@ -3,18 +3,17 @@
 ## Individual Supervision
 
 1. Have a written agenda for every supervision. Write it out *before* you come to supervision.
-2. Cover every client even if it's an update. Do <strong>not</strong> make them all updates.
-3. Have one video prepared for discussion (know the date and time)
+2. Be prepared to dicuss every client. 
+3. Have one video prepared for discussion (know the date and time) of the moment you want to discuss.
 
-*You are required to have supervision every week and it's your responsibility to schedule it with Jamie.*
+* You are required to have supervision every week. It's your responsibility to schedule your time with Jamie.
 
-*If you're having phone supervsion, do not wait for Jamie to call.  Call Jamie.*
-
+* If you're having phone supervsion then do not wait for Jamie to call.  Call Jamie.
 
 ## DBT Team Meetings
 
-1. Keep an updated schedule for every team so that you know you're role for that week.
-2. Be on time!
+1. Know your role for each week (i.e., leader, mindfulness, etc.).
 3. If you miss team, you owe the team a repair!
-4. Put yourself on the agenda for problem solving and come prepared with a question each week (even though Jamie answered everything in supervision)
+4. Put yourself on the agenda for problem solving. Avoid updates!
 5. Put yourself on the agenda for burnout at least once a semester.
+6. Make an effort to contribute at least once to a discussion.
