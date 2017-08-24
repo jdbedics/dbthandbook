@@ -1,1 +1,1 @@
-DBT Practicum Handbook for the DBT Program at California Lutheran University.
+DBT Practicum Handbook for the DBT Program at California Lutheran University. Doctoral students in their second year of coursework and first year of clinical training complete practicum work in behavioral therapy, behavioral activation, dialectical behavior therapy, cognitive therapy, and exposure therapy.  Therapy is conducted at the CLU Community Counseling Center under the supervision of Jamie Bedics, Ph.D., ABPP.
