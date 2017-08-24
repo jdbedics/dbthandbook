@@ -9,7 +9,7 @@
 5. The person waiting to become co-leader completes all the notes.
 6. All therapist complete the unofficial DBT Skills Training Adherence Checklist.
 
-## Module Content: Jamie's Tips
+## Jamie's Tips for Skills Modules
 
 The following is content that can be included in the teaching portion of your class.  Feel free to use any of the ideas in your agenda.  The majority of material is taken directly from the teaching manual.  I do my best to adhere to the following points:
 
@@ -18,9 +18,9 @@ The following is content that can be included in the teaching portion of your cl
 3.	Homework Assignments 
 4.	Random Tips
 
-## Distress Tolerance
+### Distress Tolerance
 
-### Handout DT1: Goals
+#### Handout DT1: Goals
 
 Survive Crisis Situations 
 Backstory: In the urgency of the moment, we want to solve the problem. At the same time, in solving the problem we are vulnerable to saying or doing things that we could regret or make things worse.
@@ -31,8 +31,8 @@ Backstory: In the urgency of the moment, we want to solve the problem. At the sa
 *	Elicit Examples.
 
 
-## Emotion Regulation
+### Emotion Regulation
 
-## Mindfulness
+### Mindfulness
 
-## Interpersonal Effectiveness
+### Interpersonal Effectiveness
