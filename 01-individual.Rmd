@@ -10,7 +10,7 @@
 
 ## First Session Checklist
 
-1. Review Jamie's Safety Planning [Presentation](https://speakerdeck.com/jdbedics/clu-clinic-orientation-on-safety-planning) before meeting with client.  Conduct safety planning as needed. 
+1. Review Jamie's Safety Planning _[Presentation](https://speakerdeck.com/jdbedics/clu-clinic-orientation-on-safety-planning)_ before meeting with client.  Conduct safety planning as needed. 
 
     * Always carry the *essential* sheets with you to every session.
 
@@ -58,4 +58,4 @@ It is not your clients job to come into session with goals.  Instead, listen to 
 
 ## Call or text Jamie
 
-* Please do not hesitate to call or text Jamie with any concerns.
+* Please do not hesitate to call or text Jamie with any concerns or questions.
