@@ -7,10 +7,8 @@
 ## First Session Checklist
 
 1. Review Jamie's Safety Planning _[Presentation](https://speakerdeck.com/jdbedics/clu-clinic-orientation-on-safety-planning)_ before meeting with client.  Conduct safety planning as needed. 
-* Always carry the *essential sheets* with you to every session.
-
+    * Always carry the *essential sheets* with you to every session.
 2. Checklist:
-
     * If not done already, set fee. Ask client to bring in proof of income.
     * Do not bring up or mention reduced fee option. If asked, ask the reason and tell them that you will talk to your supervisor.
     * If you're collecting the fee remember to always collect the fee at the beginning of session.
