@@ -4,31 +4,26 @@
 
 * Unless you're told by Jamie, all your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy.
 
-* Always write a client note for every scheduled contact hour and for every phone contact including those that involve scheduling.  
-
-* Start and end on time for everything.  It helps to be prepared.
-
 ## First Session Checklist
 
 1. Review Jamie's Safety Planning _[Presentation](https://speakerdeck.com/jdbedics/clu-clinic-orientation-on-safety-planning)_ before meeting with client.  Conduct safety planning as needed. 
-
-    * Always carry the *essential* sheets with you to every session.
+* Always carry the *essential sheets* with you to every session.
 
 2. Checklist:
 
-    * Set fee. Ask client to bring in proof of income
-    * Do not bring up or mention reduced fee option.  If asked, ask the reason and for how long they would expect to have the reduction. Tell them you will talk to your supervisor.
-    * Always collect Fee at the beginning of session.
-    * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason.  If they have even a slightly itchy throat then they should cancel as early as possible.
+    * If not done already, set fee. Ask client to bring in proof of income.
+    * Do not bring up or mention reduced fee option. If asked, ask the reason and tell them that you will talk to your supervisor.
+    * If you're collecting the fee remember to always collect the fee at the beginning of session.
+    * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason. I often tell them if they have any reason to believe they will miss then call and cancel. 
     * Review confidentiality and privacy.  
     * Ask if they are hoping their records will be used for anything in the future.
-    * Would they like for you to talk to someone important to them?
-    * Remind them they will complete the OQ before every session.  Orient them and make sure they are set up with a userid and password.  Help your client with this and they will have less difficulty completing it.
+    * Ask if they would like for you to talk to someone important to them about their treatment.
+    * Orient them to the OQ and help make it easy for them. 
     * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
     * Remind them that you start at the top of the hour and sessions last 45-minutes.  You can tell them that you manage time and will look at the clock and comment on time as you proceed.  The goal is to make sure they are getting what they want out of the session and are covering everything they intended to have covered.
-    * Complete the DBT General Note.
+    * Complete the DBT General Note and start drafting the treatment plan using the CLU template on Titanium.
 
-3. You're allowed to take written notes, use a clipboard, and write on the white board.  
+3. You're allowed to take written notes, use a clipboard, and write on the white board during all sessions.  
 
 ## Continuing Sessions
 
@@ -41,7 +36,7 @@
 
 ## Missed Individual Sessions
 
-1. If a client misses a session, call and leave a voicemail. 
+1. If a client misses a session, call and leave a voicemail following the guidelines in the section on [phone contact](phone-contact-with-clients.html).
 2. Write a note for all sessions, even canceled.  Be clear what you did as a result. See the section on [phone notes](phone-contact-with-clients.html).
   
 
