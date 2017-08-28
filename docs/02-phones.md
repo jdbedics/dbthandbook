@@ -26,3 +26,4 @@ If a client misses a session then call the client and leave a voicemail after 20
 
 ## Phone Coaching as an intervention
 Unless you have approval by Dr. Bedics for phone coaching in DBT, then you do not use the phone for anything but scheduling with your client.  
+

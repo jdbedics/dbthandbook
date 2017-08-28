@@ -2,7 +2,18 @@
 
 ## General Requirements
 
-Participating in the DBT Skills Class with Jamie is a privilege. There is limited availability and it will add significantly to your workload. Below are your responsiblities:  
+Participating in the DBT Skills Class with Jamie is a privilege. There is limited availability and it will add significantly to your workload. Below are the pre-requisites and responsiblities for participation in the skills class:  
+
+#### Prerequisites for any DBT student interested in participating in DBT Skills Class
+1. Purchase the <a  href="https://www.amazon.com/DBT-Skills-Training-Manual-Second/dp/1462516998/ref=dp_rm_img_0">DBT Skills Training Manual</a> along with  <a  href="https://www.amazon.com/Skills-Training-Handouts-Worksheets-Second/dp/1572307811/ref=sr_1_1?ie=UTF8&qid=1503937160&sr=8-1&keywords=dbt+skills+training+handouts+and+worksheets+second+edition">DBT Skills Training Handout and Worksheets</a>. 
+2. Read Part 1 (chapters 1-5) in the DBT Skills Training Manual.
+3. Based on your highlighting of the text, develop five questions each that you would think would be critical for any DBT Skills Trainer to know.
+4. Create a single document (e.g., Google Document) that incoprates all the questions for each chapter. Make sure that each person's name is identifed next the question.  Save the document in the `Skills Discussion Questions` folder in the Skills Training Folder on the DBT Practicum Google Drive.
+5. Meet as a group or, at minimum, in pairs to discuss the material and answer the questions each member developed.
+6. Continue this process for the first five chapters of the training manual. 
+
+
+#### Responsibilities
 
 At any given time, a total of three students can participate in the Monday Skills Class with Jamie.
 
@@ -21,6 +32,8 @@ At any given time, a total of three students can participate in the Monday Skill
 The following is content that can be included in the teaching portion of your class.  Feel free to use any of the ideas in your agenda.  The majority of material is taken directly from the teaching manual. 
 
 ### General Tips
+
+
 
 * If you purchased the books, the handouts and worksheets on PDF can be retreived at: <a  href="https://www.guilford.com/skills-training-manual">Guilford Press</a>. You’ll have to register but it’s free. 
 
