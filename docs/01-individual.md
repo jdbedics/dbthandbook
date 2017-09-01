@@ -40,13 +40,16 @@
 
 ## Setting Goals
 
-It is not your clients job to come into session with goals.  Instead, listen to your clients' concerns and attempt to make them into solvable problems. You never have to use the term _goal_ or ever ask your client _"What's you're goal_?  The goals naturally reveal themselves as you listen to what's on your clients' minds and shape them into solvable problems.
+It is not your clients job to come into session with goals.  Instead, listen to your clients' concerns and attempt to make them into solvable problems. You never have to use the term _goal_ or ever ask your client _What's you're goal_?  The goals naturally reveal themselves as you listen to what's on your clients' minds. It's your job to rephrase their statements into something like:
+
+    `It sounds like there are times when it's really hard for you to say no? Do you think that would be helpful for us to get our heads around and come up with some solutions?`
 
 ## Termination of Treatment
 
 * After 2-3 sessions, let your client know you're plan for intervention along with a timeline for termination.
+    * If you're not following an exact protocol then I often make a fairly aribtrary timeline.  For example, if we start on Sept 1st then I'll set a time to end right before Thanksgiving.  
 * Let your client know that treatment will be reassessed at that point and could be extended if the client would like to address additional areas.
-* When there is a a month left in treatment, remind the client every session that treatment is ending. 
+* When there is a a month left in treatment, remind the client every session that treatment is ending in order to focus your time. 
 * In _DBT only_, discuss the concept of ex-therapist for life. 
 
 ## Call or text Jamie

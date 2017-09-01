@@ -1,7 +1,7 @@
 --- 
 title: "DBT Practicum Handbook At California Lutheran University"
 author: "Jamie Bedics, Ph.D., ABPP"
-date: "2017-08-28"
+date: "2017-09-01"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
