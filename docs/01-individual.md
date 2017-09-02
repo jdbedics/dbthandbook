@@ -2,7 +2,7 @@
 
 ## General Points
 
-* Unless you're told by Jamie, all your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy.
+* Unless you're told otherwise by Jamie, all your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy.
 
 ## First Session Checklist
 
