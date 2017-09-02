@@ -2,7 +2,7 @@
 
 ## General Requirements
 
-Participating in the DBT Skills Class with Jamie is a privilege. There is limited availability and it will add significantly to your workload. Below are the pre-requisites and responsiblities for participation in the skills class:  
+Participating in the DBT Skills Class with Jamie is a privilege. There is limited availability and it will add significantly to your workload. Below are the pre-requisites and responsiblities for participation in the skills class.  
 
 #### Prerequisites for any DBT student interested in participating in DBT Skills Class
 1. Purchase the <a  href="https://www.amazon.com/DBT-Skills-Training-Manual-Second/dp/1462516998/ref=dp_rm_img_0">DBT Skills Training Manual</a> along with  <a  href="https://www.amazon.com/Skills-Training-Handouts-Worksheets-Second/dp/1572307811/ref=sr_1_1?ie=UTF8&qid=1503937160&sr=8-1&keywords=dbt+skills+training+handouts+and+worksheets+second+edition">DBT Skills Training Handout and Worksheets</a>. 
