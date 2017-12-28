@@ -16,4 +16,4 @@ cover-image: "docs/images/birds.png"
 
 Welcome to the DBT Practicum at CLU!  The following pages include procedures and tips for the successful completion of the practicum.
 
-![Velkominn to DBT at CLU!](images/birds.png)
+![Welcome to DBT at CLU!](images/kyoto.png)
