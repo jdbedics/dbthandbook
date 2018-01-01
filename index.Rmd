@@ -17,7 +17,7 @@ biblio-style: apalike
 
 Welcome to the DBT Practicum at CLU!  The following pages include procedures and tips for the successful completion of the practicum.
 
-![Welcome to DBT at CLU!](images/dbtclu.jpg)
+![Welcome to DBT at CLU!](images/dbtclu.png)
 
 **History**
 
