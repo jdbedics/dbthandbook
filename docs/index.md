@@ -21,7 +21,7 @@ Welcome to the DBT Practicum at CLU!  The following pages include procedures and
 
 **History**
 
-The DBT practicum at CLU began in 2010 with the purpose of providing doctoral students with advanced training in dialectical behavior therapy.  THE CLU-DBT training program was developed by Dr. Jamie Bedics in collaboration with the developer of DBT, Dr. Marsha Linehan, at the University of Washington. The vast majority of DBT practitioners have received their training in post-licensure.  These classes, offered through the <a  href="https://behavioraltech.org/">**Linehan Institute**</a>, are the gold standard in DBT training but are both costly and time consuming.  Cal Lutheran was one of the first sites to implement DBT training at the graduate level as part of a training grant received by Dr. Linehan from the National Insitute of Health.  
+The DBT practicum at CLU began in 2010 with the purpose of providing doctoral students with advanced training in dialectical behavior therapy.  THE CLU-DBT training program was developed by Dr. Jamie Bedics in collaboration with the developer of DBT, Dr. Marsha Linehan, at the University of Washington. The vast majority of DBT practitioners have received their training post-licensure.  These classes, offered through the <a  href="https://behavioraltech.org/">**Linehan Institute**</a>, are the gold standard in DBT training but are both costly and time consuming.  Dr. Linehan recognized this limitation and received a training grant from the National Institute of Health to develop methods for disseminating DBT at the graduate level.  Cal Lutheran was one of the first universities to implement DBT training at the graduate level based on this work.  
 
 **What does the DBT Practicum involve?**
 
