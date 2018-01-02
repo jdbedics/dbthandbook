@@ -2,8 +2,8 @@ book_filename: "clu-dbt-practicum"
 chapter_name: "Section "
 repo: https://github.com/jdbedics/dbtpracticum
 output_dir: docs
-rmd_files: ["index.Rmd", "01-individual.Rmd", 
-"02-phones.Rmd", "03-providers.Rmd", 
-"04-skills.Rmd", "05-supervision.Rmd", "06-professionalism.Rmd"]
+rmd_files: ["index.Rmd", "01-commitment.Rmd", "02-individual.Rmd", 
+"03-phones.Rmd", "04-providers.Rmd", 
+"05-skills.Rmd",  "06-professionalism.Rmd", "07-supervision.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
