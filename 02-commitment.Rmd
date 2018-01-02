@@ -1,4 +1,4 @@
-# Commitment
+# Commitment to DBT Practicum
 
 **Joining Team**
 
