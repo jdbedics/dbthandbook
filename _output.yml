@@ -6,7 +6,7 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">DBT Practicum Handbook At California Lutheran University</a></li>
+        <center><li><img src="https://raw.githubusercontent.com/jdbedics/dbthandbook/master/images/GumbyRound.png" width="60%" height="60%" </img></li></center>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 bookdown::pdf_book:
@@ -16,3 +16,7 @@ bookdown::pdf_book:
   citation_package: natbib
 bookdown::epub_book:
   stylesheet: style.css
+
+
+
+
