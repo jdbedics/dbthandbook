@@ -67,5 +67,5 @@ Students at CLU can apply for the DBT practicum during the second semester of th
     * Clearly engaged in the material and participated in a professional manner.
     * Demonstrated a high degree of conscientiousness in completing assignments.
   * Talk to a current DBT Practicum student about the challenges and benefits of taking DBT.  
-  * A final interview with Dr. Bedics following the student having met all of the above requirements and having read this manual.
+  * A final interview with Dr. Bedics following the applicant having met all of the above requirements and having read this manual.
 
