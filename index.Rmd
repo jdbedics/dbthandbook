@@ -48,7 +48,7 @@ In terms of DBT specific training, students sit in and watch Dr. Bedics conduct 
 
 **Pathways to learning DBT at CLU**
 
-1. *Full DBT Practicum with Supervision* (min. 6-unit elective) - The most typical path is for interested students to take the two course electives (DBT Basics and Suicidology) during their second year while simultaneously being supervised by Dr. Bedics in their first practicum at CLU. Students often take the option mindfulness course in the summer for an additional 3-unit elective and a total of 9-units of electives. 
+1. *Full DBT Practicum with Supervision* (min. 6-unit elective) - The most typical path is for interested students to take the two course electives (DBT Basics and Suicidology) during their second year while simultaneously being supervised by Dr. Bedics in their first practicum at CLU. Students often take the optional mindfulness course in the summer for an additional 3-unit elective and a total of 9-units of electives. 
 
     * It is less common but students can apply to take the practicum in their 3rd or 4th year of training. 
     * The Full DBT Practicum requires students to take the Fall DBT Basics class and the Spring Suicide class. 
