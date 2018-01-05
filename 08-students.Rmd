@@ -9,7 +9,7 @@ The following students have completed or are completing the full DBT Practicum a
 
 Madison Bailey, Ricardo Cornejo, Kimberly Johnson, Joshua Lorimer, Sarah Rosas (MFT)
 
-### CLU DBT Practicum Alumns
+### CLU DBT Practicum Alumni
 
 **2016-2017**
 
