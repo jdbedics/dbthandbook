@@ -8,7 +8,7 @@ The course readings and materials in DBT are extensive.  In addition, students a
 
 2. The majority of students do not receive an _A_ in DBT courses.  An _A_ requires exceptional work across all assignments with the heaviest weight being placed on the final paper, presentation, and exam.  Students who perform best are preparing for their final paper and presentation throughout the semester and not at the end of the semester.
 
-3. All courses are offered on the Thousand Oaks Campus at the Bell House (Graduate Psychology).  The DBT Basics and Suicide courses start at 9AM on Wednesday and end at Noon.  DBT Team follows from noon until 2PM. All supervision in Thousand Oaks at times that fit with Dr. Bedics' schedule.  Students have to adjust their schedule accordingly so they are on time (ideally early) for all appointments.  
+3. All courses are offered on the Thousand Oaks Campus at the Bell House (Graduate Psychology).  The DBT Basics and Suicide courses start at 9AM on Wednesday and end at Noon.  DBT Team follows from noon until 2PM. All supervision is also in Thousand Oaks at times that fit with Dr. Bedics' schedule.  Students have to adjust their schedule accordingly so they are on time (ideally early) for all appointments.  
 
 <div style="text-align:center" markdown="1">
 
