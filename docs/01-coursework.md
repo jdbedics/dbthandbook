@@ -14,6 +14,10 @@ The course readings and materials in DBT are extensive.  In addition, students a
 
 ![The Bell House - Graduate Psychology](images/bh.png)
 
+</div>
+
+<div style="text-align:center" markdown="1">
+
 ![Mindfulness Retreat 2016](images/mf.png)
 
 </div>
