@@ -10,11 +10,8 @@ The course readings and materials in DBT are extensive.  In addition, students a
 
 3. All courses are offered on the Thousand Oaks Campus at the Bell House (Graduate Psychology).  The DBT Basics and Suicide courses start at 9AM on Wednesday and end at Noon.  DBT Team follows from noon until 2PM. All supervision is also in Thousand Oaks at times that fit with Dr. Bedics' schedule.  Students have to adjust their schedule accordingly so they are on time (ideally early) for all appointments.  
 
-<div style="text-align:center" markdown="1">
 
 ![The Bell House - Graduate Psychology](images/bh.png)
-
-
 
 Our mindfulness class ends with an an all day silent retreat in the mountains surrounding Santa Barbara, CA.
 
@@ -22,7 +19,7 @@ Our mindfulness class ends with an an all day silent retreat in the mountains su
 
 Dr. Bedics, Monique, Dana, Colin, Brandon, Jon, Rebecca, and James
 
-</div>
+
 
 
 
