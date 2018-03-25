@@ -40,6 +40,8 @@ I. DBT Coursework
 
 Course descriptions can be found at the <a  href="https://www.callutheran.edu/academics/graduate/psyd-clinical-psychology/dbt.html">**Cal Lutheran Website**</a>.  
 
+![Mindfulness Retreat](images/class.png)
+
 II. Practicum Supervision with Dr. Bedics
 
 Students in the DBT Practicum primarily conduct behavior therapy and see individual (adults and teens), couples, or families from the **general clinic**.  Students in the DBT practicum are, however, more likely to be given clients who report recent suicidal behavior.
