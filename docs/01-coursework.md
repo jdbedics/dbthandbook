@@ -16,9 +16,7 @@ The course readings and materials in DBT are extensive.  In addition, students a
 Our mindfulness class ends with an an all day silent retreat in the mountains surrounding Santa Barbara, CA.
 
 
-
-![Mindfulness Retreat](images/class.png)
-
+<h4 align="right"><img src="https://raw.githubusercontent.com/CLU-MSCP/bedics/master/public/RStudio-Logo-Blue-Gradient.png" alt="DC" align="right" style="width: 22%; height: 22%; margin:8px"></h4>
 
 Dr. Bedics, Monique, Dana, Colin, Brandon, Jon, Rebecca, and James
 
