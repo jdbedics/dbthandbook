@@ -15,7 +15,10 @@ The course readings and materials in DBT are extensive.  In addition, students a
 
 Our mindfulness class ends with an an all day silent retreat in the mountains surrounding Santa Barbara, CA.
 
-![Mindfulness Class Retreat 2016](images/class.png)
+
+
+![Mindfulness Retreat](images/class.png)
+
 
 Dr. Bedics, Monique, Dana, Colin, Brandon, Jon, Rebecca, and James
 
