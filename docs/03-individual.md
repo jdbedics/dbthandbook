@@ -71,9 +71,9 @@ Dr. Bedics rarely uses the term _goal_, instead the therapists job is to come up
 
 ## Termination of Treatment
 
-As a default, tell you're client that you conduct short-term problem solving therapy.  Sessions last between 8-10 sessions with an option to renew.  The fr
+As a default, tell your client that you conduct short-term problem solving therapy.  Sessions last between 8-10 sessions with an option to renew.
 
-* After 2-3 sessions, let your client know you're plan for intervention along with a timeline for termination.
+* After 2-3 sessions, let your client know your plan for intervention along with a timeline for termination.
     * If you're not following an exact protocol then I often make a fairly aribtrary timeline.  For example, if we start on Sept 1st then I'll set a time to end right before Thanksgiving.  
 * Let your client know that treatment will be reassessed at that point and could be extended if the client would like to address additional areas.
 * When there is a a month left in treatment, remind the client every session that treatment is ending in order to focus your time. 
