@@ -15,6 +15,8 @@ Madison Bailey, Ricardo Cornejo, Kimberly Johnson, Joshua Lorimer, Sarah Rosas (
 
 Rebecca Dreiling, Jon Fledzinskas, Colin Goodwin, Brandon Heimburg, Monique Loza, Dana Schmidt
 
+![2017 Mindfulness Retreat](images/class.png)
+
 **2015-2016**
 
 Holly McKinley, Kayla Nelson
