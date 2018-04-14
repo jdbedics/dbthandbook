@@ -61,7 +61,9 @@ Students should feel free to save this document as a PDF and print this page out
     * High or Moderate distress with no change in status from baseline
     * Any note of an increase in a critical item 
     * Significant improvement from baseline
-Review the OQ early as it should be helpful in setting the agenda. Oftentimes, there is a misunderstanding when the client rates the OQ.  Make sure they understand they are rating the past week only.  There are occassions when clients will respond carelessly.  The simple act of asking your client about the OQ shows that it is important to you and is often corrective by itself.
+
+Review the OQ early in the session as it will be helpful in setting the agenda. It can also help clear up any misunderstandings that will result in invalid reports.  For example, make sure each client understands that they are rating the past week only.  In other situations, clients might respond carelessly.  The simple act of asking your client about the OQ shows its importance to you and is often corrective by itself.
+
 4. You might have a therapist in the room before you that ends their sessions late.  Ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to clinic staff, the clinic director, or Dr. Bedics.
 5. Complete all notes within *one* week. 
 6. Use the DBT General Note for individual sessions.  This is the standard note for your clients when you are supervised by Jamie. 
