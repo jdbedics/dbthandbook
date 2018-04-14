@@ -2,7 +2,7 @@
 
 ## General Clinic
 
-Unless you're told otherwise by Dr. Bedics, all of your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy and you are being supervised in behavior therapy as you learned it in the Behavior Therapy courese (PSYD 745).
+Unless you're told otherwise by Dr. Bedics, all of your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy and you are being supervised in behavior therapy as you learned in Behavior Therapy (PSYD 745).
 
 ## General Procedures and professionalism
 
