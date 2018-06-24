@@ -1,7 +1,7 @@
 --- 
 title: "DBT Practicum Handbook At California Lutheran University"
 author: "Jamie Bedics, Ph.D., ABPP"
-date: "2018-04-14"
+date: "2018-06-24"
 cover-image: docs/images/kyoto.png
 bibliography: book.bib
 description: Everything you need to know to successfully complete the DBT Practicum
@@ -39,6 +39,8 @@ I. DBT Coursework
     5. DBT Skills Training (summer)
 
 Course descriptions can be found at the <a  href="https://www.callutheran.edu/academics/graduate/psyd-clinical-psychology/dbt.html">**Cal Lutheran Website**</a>.  
+
+![Retreat2018](images/group.jpg)
 
 II. Practicum Supervision with Dr. Bedics
 
