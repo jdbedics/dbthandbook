@@ -40,7 +40,9 @@ I. DBT Coursework
 
 Course descriptions can be found at the <a  href="https://www.callutheran.edu/academics/graduate/psyd-clinical-psychology/dbt.html">**Cal Lutheran Website**</a>.  
 
-![Retreat2018](images/group.jpg)
+
+
+![Retreat2018](dbthandbook/images/group.jpg)
 
 II. Practicum Supervision with Dr. Bedics
 
