@@ -42,7 +42,7 @@ Course descriptions can be found at the <a  href="https://www.callutheran.edu/ac
 
 
 
-![Retreat2018](dbthandbook/images/group.jpg)
+![Mindfulness Retreat 2018](static/img/group.jpg)
 
 II. Practicum Supervision with Dr. Bedics
 
