@@ -42,7 +42,7 @@ Course descriptions can be found at the <a  href="https://www.callutheran.edu/ac
 
 
 
-![Welcome to DBT at CLU!](images/dbtclu.png)
+![Mindfulness Retreat 2018!](images/group.png)
 
 II. Practicum Supervision with Dr. Bedics
 
