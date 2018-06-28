@@ -15,7 +15,10 @@ Madison Bailey, Ricardo Cornejo, Kimberly Johnson, Joshua Lorimer, Sarah Rosas (
 
 Rebecca Dreiling, Jon Fledzinskas, Colin Goodwin, Brandon Heimburg, Monique Loza, Dana Schmidt
 
-![2017 Mindfulness Retreat](docs/images/class.png)
+<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/class.png?raw=true" alt="DC" align="center" style="width: 50%; height: 30%; margin:8px"></h5> 
+<center>Mindfulness Silent Retreat 2017 in Santa Barbara, CA</center>
+
+
 
 **2015-2016**
 
