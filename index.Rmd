@@ -38,8 +38,13 @@ I. DBT Coursework
     4. Mindfulness (every other summer)
     5. DBT Skills Training (summer)
 
-<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/group.jpg?raw=true" alt="DC" align="center" style="width: 40%; height: 40%; margin:8px"></h5> 
+<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/group.jpg?raw=true" alt="DC" align="center" style="width: 60%; height: 30%; margin:8px"></h5> 
 <center>Mindfulness Silent Retreat 2018 in Malibu, CA</center>
+
+<br>
+
+<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/class.png?raw=true" alt="DC" align="center" style="width: 60%; height: 30%; margin:8px"></h5> 
+<center>Mindfulness Silent Retreat 2017 in Santa Barbara, CA</center>
 
 <br>
 

@@ -1,7 +1,7 @@
 --- 
 title: "DBT Practicum Handbook At California Lutheran University"
 author: "Jamie Bedics, Ph.D., ABPP"
-date: "2018-06-25"
+date: "2018-06-28"
 cover-image: docs/images/kyoto.png
 bibliography: book.bib
 description: Everything you need to know to successfully complete the DBT Practicum
@@ -38,8 +38,13 @@ I. DBT Coursework
     4. Mindfulness (every other summer)
     5. DBT Skills Training (summer)
 
-<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/group.jpg?raw=true" alt="DC" align="center" style="width: 40%; height: 40%; margin:8px"></h5> 
+<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/group.jpg?raw=true" alt="DC" align="center" style="width: 60%; height: 30%; margin:8px"></h5> 
 <center>Mindfulness Silent Retreat 2018 in Malibu, CA</center>
+
+<br>
+
+<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/class.png?raw=true" alt="DC" align="center" style="width: 60%; height: 30%; margin:8px"></h5> 
+<center>Mindfulness Silent Retreat 2017 in Santa Barbara, CA</center>
 
 <br>
 

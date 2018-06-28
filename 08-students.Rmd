@@ -5,20 +5,19 @@ The following students have completed or are completing the full DBT Practicum a
 
 ### Current DBT Practicum Students
 
+**2018-2019** 
+
+Sarah Amato, Brian Knoll, Melinda Moreau, Brandon Morrison, Nico Sirianni, Andre Petrossian, Natalia Witkowska
+
+### CLU DBT Practicum Alumni
+
 **2017-2018** 
 
 Madison Bailey, Ricardo Cornejo, Kimberly Johnson, Joshua Lorimer, Sarah Rosas (MFT)
 
-### CLU DBT Practicum Alumni
-
 **2016-2017**
 
 Rebecca Dreiling, Jon Fledzinskas, Colin Goodwin, Brandon Heimburg, Monique Loza, Dana Schmidt
-
-<h5 align="center"><img src="https://github.com/jdbedics/dbthandbook/blob/master/images/class.png?raw=true" alt="DC" align="center" style="width: 50%; height: 30%; margin:8px"></h5> 
-<center>Mindfulness Silent Retreat 2017 in Santa Barbara, CA</center>
-
-
 
 **2015-2016**
 
