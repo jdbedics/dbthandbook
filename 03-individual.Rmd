@@ -8,19 +8,15 @@ Unless you're told otherwise by Dr. Bedics, all of your clients are general clin
 
 Your performance and evaluation in the practicum is largely a reflection of your professionalism. 
 
-1. Be on time for all appointments.
-2. End all appointments on time, :45 past the hour, which means wind down between :35-:40. 
-3. Be aware of all clinic policies and procedures.  If you notice anything discrepant between the clinic and Dr. Bedics, then email Dr. Bedics. 
-4. Be polite and respectful to all staff.
-5. Do not talk about clients with other providers in an open setting.
-6. Do not leave Titanium unattended.
-7. Never take any information with a client's name or other PHI outside of the clinc. It is a sure way to fail practicum.  The most common scenario is taking a termination letter for Dr. Bedics to sign in TO.  You can bring a letter with no identifying information and fill it after you receive the signature.
-8. Do not email or text Dr. Bedics with a client's name.  
+1. Be on time and end on time for all appointments.  This is easier said than done so do your best to be aware of time.
+2. Be polite and respectful to all staff.
+3. It's appropriate to consult.  A general rule is to only consult if you were comfortable with your client being present.
+4. Call Dr. Bedics if you want to talk about a client anytime.  Avoid texting any information about client, including client name. 
 
 ## First Session Checklist
 
-1. Review Jamie's Safety Planning **[Presentation](https://speakerdeck.com/jdbedics/clu-clinic-orientation-on-safety-planning)** before meeting with client.  Conduct safety planning as needed. 
-    * Always carry the *essential sheets* with you to every session.
+1. Review Jamie's Safety Planning **[Presentation](https://speakerdeck.com/jdbedics/clu-2018-community-counseling-safety-training)** before meeting with client.  Conduct safety planning as needed. 
+    * Keep the *essential sheets* with you and ready for every session.
 
 2. Checklist:
 
@@ -48,7 +44,7 @@ Your performance and evaluation in the practicum is largely a reflection of your
 
     * Complete the DBT General Note and start drafting the treatment plan using the CLU template on Titanium.
 
-Students should feel free to save this document as a PDF and print this page out for each new client. 
+Students should feel free to save this checklist as a PDF and print this page out for each new client. 
 
 3. You're allowed to take written notes, use a clipboard, and write on the white board during all sessions. By default, use these methods sparingly and only as a means to help you engage the client in the spirit of problem solving. 
 
