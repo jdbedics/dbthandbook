@@ -22,29 +22,29 @@ Review Jamie's **[Suicide Training Presentation](https://speakerdeck.com/jdbedic
 
 I recommend printing this page our and bringing with you to the first session.  Check the list off as you accomplish each task.
 
-    * Welcome the client and orient them to the uniqueness of the structure of the day (See Suicide Training Presentation)
+  * Welcome the client and orient them to the uniqueness of the structure of the day (See Suicide Training Presentation)
     
-    * Remind client that they are being recorded and that the only person to see the tape is your supervisor.
+  * Remind client that they are being recorded and that the only person to see the tape is your supervisor.
     
-    * Review confidentiality and privacy.  
+  * Review confidentiality and privacy.  
     
-    * Establish the fee and ask the client to bring in proof of income.  Do not bring up or mention a reduced fee option. If asked about a reduced fee then ask the reason and tell them that you will talk to your supervisor and clinic director.  If they are a transfer client than review their existing fee. If it is below the minimum, then ask them the reason.  Discuss on team.    
+  * Establish the fee and ask the client to bring in proof of income.  Do not bring up or mention a reduced fee option. If asked about a reduced fee then ask the reason and tell them that you will talk to your supervisor and clinic director.  If they are a transfer client than review their existing fee. If it is below the minimum, then ask them the reason.  Discuss on team.    
 
-    * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason. Tell them to call ahead if they have any reason to believe they will miss or are even slightly under the weather.  It is best to be cautious to avoid the automatic charge. 
+  * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason. Tell them to call ahead if they have any reason to believe they will miss or are even slightly under the weather.  It is best to be cautious to avoid the automatic charge. 
 
-    * Ask if they are hoping their records will be used for anything in the future or sent to any external person.
+  * Ask if they are hoping their records will be used for anything in the future or sent to any external person.
 
-    * Ask if they would like for you to talk to someone important to them about their treatment.
+  * Ask if they would like for you to talk to someone important to them about their treatment.
 
-    * Orient them to the OQ and answer their questions.
+  * Orient them to the OQ and answer their questions.
 
-    * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
+  * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
 
-    * Remind them that you start at the top of the hour and sessions last 45-minutes.  You can tell them that you manage time and will look at the clock and comment on time as you proceed.  The goal is to make sure they are getting what they want out of the session and are covering everything they intended to have covered.
+  * Remind them that you start at the top of the hour and sessions last 45-minutes.  You can tell them that you manage time and will look at the clock and comment on time as you proceed.  The goal is to make sure they are getting what they want out of the session and are covering everything they intended to have covered.
 
-    * Orient to behavior therapy.  Tell the client that you conduct short-term problem solving therapy.  Sessions range from 8-10 weeks.  The client can renew after the initial block of sessions.  You can validate that this is likely different from their expectations or therapy that they have had in the past. The first few sessions are unusual as they involve getting to know each other and the completion of the intake form.  After several sessions, you and client review progress and  agree on termination/renewal time.
+  * Orient to behavior therapy.  Tell the client that you conduct short-term problem solving therapy.  Sessions range from 8-10 weeks.  The client can renew after the initial block of sessions.  You can validate that this is likely different from their expectations or therapy that they have had in the past. The first few sessions are unusual as they involve getting to know each other and the completion of the intake form.  After several sessions, you and client review progress and  agree on termination/renewal time.
 
-    * Complete the DBT General Note and start drafting the treatment plan using the CLU template on Titanium.
+  * Complete the DBT General Note and start drafting the treatment plan using the CLU template on Titanium.
 
 Students should feel free to save this checklist as a PDF and print this page out for each new client. 
 
