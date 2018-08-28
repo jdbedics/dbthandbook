@@ -1,4 +1,4 @@
-book_filename: "clu-dbt-practicum"
+book_filename: "dbthandbook"
 chapter_name: "Section "
 repo: https://github.com/jdbedics/dbthandbook
 output_dir: docs
