@@ -15,5 +15,5 @@
     *	Log off from your computer and the recording system after each session.
     * When writing notes, do not leave your computer unattended without logging off. 
     * Do not email anything about your clients with other providers or your supervisor (even if you use initials).
-    * Email or text Jamie: “Do you have a moment to chat about a client?” No need to say anything more.     
+    * Do not write notes in clinic rooms unless approved by staff
 

@@ -4,37 +4,39 @@
 
 Unless you're told otherwise by Dr. Bedics, all of your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy and you are being supervised in behavior therapy as you learned in Behavior Therapy (PSYD 745).
 
-## General Procedures and professionalism
+## General Procedures and Professionalism
 
 Your performance and evaluation in the practicum is largely a reflection of your professionalism. 
 
 1. Be on time and end on time for all appointments.  This is easier said than done so do your best to be aware of time.
 2. Be polite and respectful to all staff.
-3. It's appropriate to consult.  A general rule is to only consult if you were comfortable with your client being present.
-4. Call Dr. Bedics if you want to talk about a client anytime.  Avoid texting any information about client, including client name. 
+3. It's appropriate to consult.  A general rule is to consult and talk about your client as if the client and Dr. Bedics were present.
+4. Feel free to call Dr. Bedics to dicuss your cases at anytime.  Simply text Dr. Bedics that you would like to talk but _do not_ include a client name or information.
 
 ## First Session Checklist
 
-1. Review Jamie's Safety Planning **[Presentation](https://speakerdeck.com/jdbedics/clu-2018-community-counseling-safety-training)** before meeting with client.  Conduct safety planning as needed. 
-    * Keep the *essential sheets* with you and ready for every session.
+Review Jamie's **[Suicide Training Presentation](https://speakerdeck.com/jdbedics/clu-2018-community-counseling-safety-training)** before meeting with clien and be prepared to conduct safety planning as needed. Keep the *essential sheets* with you and ready for every session.
+   
 
-2. Checklist:
+**Checklist:**
 
-    * If not done already, set fee. Ask client to bring in proof of income.
+I recommend printing this page our and bringing with you to the first session.  Check the list off as you accomplish each task.
 
-    * Do not bring up or mention reduced fee option. If asked, ask the reason and tell them that you will talk to your supervisor.
-
-    * If you're collecting the fee remember to always collect the fee at the beginning of session.
-
-    * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason. Tell them to call ahead if they have any reason to believe they will miss or are even slightly under the weather. 
-
+    * Welcome the client and orient them to the uniqueness of the structure of the day (See Suicide Training Presentation)
+    
+    * Remind client that they are being recorded and that the only person to see the tape is your supervisor.
+    
     * Review confidentiality and privacy.  
+    
+    * Establish the fee and ask the client to bring in proof of income.  Do not bring up or mention a reduced fee option. If asked about a reduced fee then ask the reason and tell them that you will talk to your supervisor and clinic director.  If they are a transfer client than review their existing fee. If it is below the minimum, then ask them the reason.  Discuss on team.    
+
+    * Remind them of 24-hour policy for missed sessions or they will be charged.  Charges occur regardless the reason. Tell them to call ahead if they have any reason to believe they will miss or are even slightly under the weather.  It is best to be cautious to avoid the automatic charge. 
 
     * Ask if they are hoping their records will be used for anything in the future or sent to any external person.
 
     * Ask if they would like for you to talk to someone important to them about their treatment.
 
-    * Orient them to the OQ and help make it easy for them. 
+    * Orient them to the OQ and answer their questions.
 
     * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
 
@@ -50,27 +52,28 @@ Students should feel free to save this checklist as a PDF and print this page ou
 
 ## Continuing Sessions
 
-1. Set the recording up early.  Minimize the screen **and** turn the monitor off.
-2. Do not start the session until your client completes the OQ.  
-    * Help your client become successful at completing the OQ. Support and encourage and help them remember _how_ to do it. 
-3. Review the OQ _prior_ to seeing your client. You shoud consider commenting on the OQ in the following situations:
+1. Set the recording up early. Minimize the screen **and** turn the monitor off.
+2. Review the OQ _prior_ to seeing your client. You shoud consider commenting on the OQ in the following situations:
     * High or Moderate distress with no change in status from baseline
     * Any note of an increase in a critical item 
     * Significant improvement from baseline
+3.  Set a collaborative agenda. Comment on the OQ in doing so. The simple act of asking your client about the OQ shows its importance to you and is often corrective by itself.
 
-Review the OQ early in the session as it will be helpful in setting the agenda. It can also help clear up any misunderstandings that will result in invalid reports.  For example, make sure each client understands that they are rating the past week only.  In other situations, clients might respond carelessly.  The simple act of asking your client about the OQ shows its importance to you and is often corrective by itself.
-
-4. You might have a therapist in the room before you that ends their sessions late.  Ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to clinic staff, the clinic director, or Dr. Bedics.
+4. You might have a therapist in the room before you that ends their sessions late. If that's the case, simply ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to clinic staff, the clinic director, or Dr. Bedics.
 5. Complete all notes within *one* week. 
 6. Use the DBT General Note for individual sessions.  This is the standard note for your clients when you are supervised by Jamie. 
 
 ## Setting Goals
 
-It is not your clients' job to come into session with goals.  Instead, listen to your clients' concerns and attempt to make them into solvable problems. You never have to use the term _goal_ or ever ask your client _What's you're goal_?  The goals naturally reveal themselves as you listen to clients' concerns. It is your job to rephrase their statements into something like:
+Creating solvable problems from your clients' stated concerns is one of the most important and challenging parts of conducting treatment. Further, this is an ongoing process that does not end with the first few sessions.   The best mindset a therapist can have is to always ask "What does my client need?" or "What would have to be different for my client to create the life they want for themselves?"  These are hard questions for anybody to answer about themselves. 
+
+You will help the client by modeling how to reframe your clients' concerns in a solvable manner. Inevitably, this well help lead to realistic change which will likely also involve some distress tolerance around what _cannot_ be changed in their lives.    
+
+Lastly, you never have to use the term _goal_ or ever ask your client _What's you're goal_?  The goals naturally reveal themselves as you listen to clients' concerns. It is your job to rephrase their statements into something like:
 
     `It sounds like there are times when it's really hard for you to say no? Do you think that would be helpful for us to get our heads around and come up with some solutions?`
 
-Dr. Bedics rarely uses the term _goal_, instead the therapists' job is to come up with tangible outcomes that can be demonstrated after 8-10 sessions.  These goals are fluid and always developing or being revised.  It is the therapists job to pay careful attention, keep the session organized, and maintain awareness of progress. The special DBT note requires that you are aware of each goal, assign HW to related to those goals, and then review the HW in the next session.
+The therapist is then responsible for following up and revising during the course of treatment. 
 
 ## Termination of Treatment
 
@@ -90,4 +93,4 @@ As a default, tell your client that you conduct short-term problem solving thera
 
 ## Call or text Jamie
 
-* Please do not hesitate to call or text Jamie with any concerns or questions.
+* Please do not hesitate to text Jamie to discuss a case.  Do not include any identifying information in the text.

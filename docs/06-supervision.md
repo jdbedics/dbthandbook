@@ -18,3 +18,13 @@
 4. Put yourself on the agenda for problem solving. Avoid updates!
 5. Put yourself on the agenda for burnout at least once a semester.
 6. Make an effort to contribute at least once to a discussion.
+
+## Practicum Class
+
+Doctoral students have a practicum class with faculty or staff.  The class can be very helpful in hearing and learning about alternative perpsectives and improving the overall care of our clients.  Please do the following:
+
+    * Change identifying information which can include the exact nature of the primary problem or diagnosis.
+    * Think of this class as additonal consultation.  Do not implement recommendations.  Instead, bring the advice to team for further consideration.
+    * **Always** talk about your client as if they were present. 
+    * Discuss with Jamie any concerns you have about the class. 
+    
