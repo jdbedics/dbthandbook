@@ -7,7 +7,7 @@ bibliography: book.bib
 description: Everything you need to know to successfully complete the DBT Practicum
   at CLU.
 documentclass: book
-github-repo: jdbedics/dbtpracticum
+github-repo: jdbedics/dbthandbook
 link-citations: yes
 site: bookdown::bookdown_site
 biblio-style: apalike
