@@ -1,6 +1,6 @@
 book_filename: "clu-dbt-practicum"
 chapter_name: "Section "
-repo: https://github.com/jdbedics/dbtpracticum
+repo: https://github.com/jdbedics/dbthandbook
 output_dir: docs
 rmd_files: ["index.Rmd", "01-coursework.Rmd", "02-commitment.Rmd", "03-individual.Rmd", 
 "04-skills.Rmd", "05-phones.Rmd", "06-supervision.Rmd", "07-professionalism.Rmd", "08-students.Rmd"]
