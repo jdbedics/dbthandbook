@@ -15,7 +15,7 @@ Your performance and evaluation in the practicum is largely a reflection of your
 
 ## First Session Checklist
 
-Review Jamie's **[Suicide Training Presentation](https://speakerdeck.com/jdbedics/clu-2018-community-counseling-safety-training)** before meeting with clien and be prepared to conduct safety planning as needed. Keep the *essential sheets* with you and ready for every session.
+Review Jamie's **[Suicide Training Presentation](https://speakerdeck.com/jdbedics/clu-2018-community-counseling-safety-training)** before meeting with clients and be prepared to conduct safety planning as needed. Keep the *essential sheets* with you and ready for every session.
    
 
 **Checklist:**
