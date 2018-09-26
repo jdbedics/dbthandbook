@@ -12,6 +12,10 @@ Participating in the DBT Skills Class with Jamie is a privilege. There is limite
 5. Meet as a group or, at minimum, in pairs to discuss the material and answer the questions each member developed.
 6. Continue this process for the first five chapters of the training manual. 
 
+#### Google Drive for More Tips
+
+The Google Drive folder has additional tips for each module located in `Skills Training` and `Jamie's Tips`.
+
 
 #### Responsibilities
 
@@ -32,8 +36,6 @@ At any given time, a total of three students can participate in the Monday night
 The following are general tips for the overall running of the DBT Skills Class. Specific tips for each module is located in the Google Drive.
 
 ### General Tips
-
-
 
 * If you purchased the books, the handouts and worksheets on PDF can be retreived at: <a  href="https://www.guilford.com/skills-training-manual">Guilford Press</a>. You’ll have to register with Guilford but it’s free. 
 
@@ -150,6 +152,33 @@ Common problems to keep an eye out for include:
     * Leader goes last and should try to say something supportive or encouraging about the group as a whole.  Something more “yoda” like than what we expect from the clients.
 </p>
 
-### Google Drive for More Tips
+## Group Notes
 
-The Google Drive folder has additional tips for each module located in `Skills Training` and `Jamie's Tips`.
+Please follow these instructions for completing the DBT Skills Group note.  Two separate groups notes are required in Titanium for the DBT Skills Group.
+
+**Part I. Create and Distribute**
+
+1. Go to your task list and click on DBT Group Note. Follow the template to fill out the note.
+2. Once you have completed the note, click “save”.
+3. Next, select “distribute” on the top right of the note menu. Select the option to distribute the note to all clients in the skills class.
+
+**Part II. Create and Compose Individual Note**
+
+1. Go back to your task list. There should be additional tasks that have been created for each group member.
+2. Click on the client’s note to open-up the task. The note that opens-up should be the previously entered group note that has now been attached or distributed to the individual client’s file.
+3. In the “Note Type” bar, select “DBT Individual Group Note”. Titanium will ask if you would like to insert the new template. Select “Yes”.
+4. The template for the Individual Group Note will now appear above the previously entered DBT Group Note.
+5. Add the group co-leader's name following the “&” symbol on the second line and complete the template.
+6. After completing the template (top portion) add the date of the next appointment.
+7. Press “Enter” to move down the portion of the Group Note starting with “Session Date”
+8. Add `************` between the Group Note and the Individual Note so it is clear where the Individual Group Note ends and the Group note begins.
+9. Sign each completed note individually and send to Dr. Bedics
+
+**Part III. Remove Original Group Note**
+
+1. Once you have confirmed each DBT Individual Group Note contains both the DBT Group Note and the Individual Group Note write up, go back into you task list and open-up the original DBT Group Note.
+2. Click ok on the box that pops up stating it is the original group note that has been distributed to the group members
+3. Click the “save” button on the top left of the note, then click the “delete” button. Confirm you would like to delete the note by clicking “yes” in the box that appears.
+
+Thanks to Andre for putting this together!
+
