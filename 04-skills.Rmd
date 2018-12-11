@@ -57,7 +57,7 @@ Thanks to Andre for putting this together!
 
 The following are general tips for the overall running of the DBT Skills Class. Specific tips for each module is located in the Google Drive.
 
-### General Tips
+## General Tips for Skills Training
 
 * If you purchased the books, the handouts and worksheets on PDF can be retrieved at: <a  href="https://www.guilford.com/skills-training-manual">Guilford Press</a>. You’ll have to register with Guilford but it’s free. 
 
