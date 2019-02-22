@@ -2,7 +2,7 @@
 
 ## General Requirements
 
-Participating in the DBT Skills Class with Jamie is a privilege. There is limited availability and it will add significantly to your workload. Below are the pre-requisites and responsibilities for participation in the skills class.  
+Participating in the DBT Skills Class with Jamie is not guaranteed.  There is limited availability and it will significantly increase your workload. Below are the pre-requisites and responsibilities for participation in the skills class.  
 
 #### Prerequisites for DBT Skills Class
 1. Purchase the <a  href="https://www.amazon.com/DBT-Skills-Training-Manual-Second/dp/1462516998/ref=dp_rm_img_0">DBT Skills Training Manual</a> along with  <a  href="https://www.amazon.com/Skills-Training-Handouts-Worksheets-Second/dp/1572307811/ref=sr_1_1?ie=UTF8&qid=1503937160&sr=8-1&keywords=dbt+skills+training+handouts+and+worksheets+second+edition">DBT Skills Training Handout and Worksheets</a>. 
@@ -53,6 +53,7 @@ Please follow these instructions for completing the DBT Skills Group note.  Two 
 3. Click the “save” button on the top left of the note, then click the “delete” button. Confirm you would like to delete the note by clicking “yes” in the box that appears.
 
 Thanks to Andre for putting this together!
+
 ## Jamie's Tips for Skills Training
 
 The following are general tips for the overall running of the DBT Skills Class. Specific tips for each module is located in the Google Drive.

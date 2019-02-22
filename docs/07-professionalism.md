@@ -8,7 +8,7 @@
 
 2. Clinic Policy and Staff.
     * Treat the staff professionally.
-    * Know the rules and procedures for the clinic.
+    * Know the rules and procedures for the clinic. Pay attention to clinic policy and be aware of clinic rules.
     * If anything seems to contradict supervision then discuss with Jamie.
 
 3. Computer etiquette
