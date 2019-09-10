@@ -1,7 +1,7 @@
 --- 
 title: "DBT Practicum Handbook At California Lutheran University"
 author: "Jamie Bedics, Ph.D., ABPP"
-date: "2019-02-21"
+date: "2019-09-10"
 bibliography: book.bib
 description: Everything you need to know to successfully complete the DBT Practicum
   at CLU.

@@ -5,11 +5,15 @@ The following students have completed or are completing the full DBT Practicum a
 
 ### Current DBT Practicum Students
 
+**Fall 2019**
+
+Pooneh Asgari, Kate Diasamidze, Stephen Docherty, Kaylee Jones, Shannel Kassis, Savannah Winterstein
+
+### CLU DBT Practicum Alumni
+
 **2018-2019** 
 
 Sarah Amato, Brian Knoll, Melinda Moreau, Brandon Morrison, Nico Sirianni, Andre Petrossian, Natalia Witkowska
-
-### CLU DBT Practicum Alumni
 
 **2017-2018** 
 

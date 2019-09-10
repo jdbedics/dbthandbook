@@ -14,6 +14,11 @@
 ![The Bell House - Graduate Psychology in Thousand Oaks](images/bh.png)
 
 
+**Resources**
+
+1. <a  href="https://www.practiceground.org/dbt-therapist-wiki/">DBT Therapist Wiki</a>. 
+2. <a  href="https://app.box.com/s/gpll5dwwd2v7i6wdgi0bttu9rhrsc1zm">DBT Session Adherence Guidelines</a>.
+3. 2. <a  href="https://behavioraltech.org/">Behavioral Tech</a>.
 
 
 
