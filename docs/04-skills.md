@@ -30,7 +30,10 @@ Please follow these instructions for completing the DBT Skills Group note.  Two 
 
 **Part I. Create and Distribute**
 
-1. Go to your task list and click on DBT Group Note. Follow the template to fill out the note.
+1. Go to your task list and click on DBT Group Note. 
+2. You'll see the clients names listed.  Click on the Group Note tab above. 
+3. The generic group note will appear.  Select "DBT Group Note" (not "DBT Individual Group Note") to replace that template.  A dialougue box will pop open and just confirm changes, click "Yes". 
+4. Follow the template and fill out the note.
 2. Once you have completed the note, click “save”.
 3. Next, select “distribute” on the top right of the note menu. Select the option to distribute the note to all clients in the skills class.
 
