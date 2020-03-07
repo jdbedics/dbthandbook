@@ -1,7 +1,7 @@
 --- 
 title: "DBT Practicum Handbook At California Lutheran University"
 author: "Jamie Bedics, Ph.D., ABPP"
-date: "2020-03-06"
+date: "2020-03-07"
 bibliography: book.bib
 description: Everything you need to know to successfully complete the DBT Practicum
   at CLU.
@@ -55,7 +55,7 @@ The DBT practicum offers several course electives.  The availability of these co
     2. DBT Basics (elective; typically offered in the fall semester)
     3. Suicide Assessment and Crisis Management (elective; typically offered in the spring semester)
     4. Mindfulness (elective; typically every other summer)
-    5. DBT Skills Training (optional for auditing; no course credit available and offered in the summer)
+    5. DBT Skills Training (optional for auditing; no course credit available and offered in the summer for this course)
 
 Course descriptions can be found at the <a  href="https://www.callutheran.edu/academics/graduate/psyd-clinical-psychology/dbt.html">**Cal Lutheran Website**</a>. All of the courses are offered on the Thousand Oaks campus.  Student who do not take the practicum can take these electives, again, pending PSYD faculty approval and space availability.
 
