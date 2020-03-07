@@ -2,22 +2,23 @@
 
 ## General Clinic
 
-Unless you're told otherwise by Dr. Bedics, all of your clients are general clinic clients and _not_ in DBT.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are receiving behavioral therapy and you are being supervised in behavior therapy as you learned in Behavior Therapy (PSYD 745).
+Unless you're told otherwise by Dr. Bedics, all of your clients are general clinic clients and _not_ in DBT per se.  They are simply being seen under the umbrella of the DBT Clinic at CLU.  They are typically receiving behavioral therapy and you are being supervised in behavior therapy based on the DBT manual.
 
 ## General Procedures and Professionalism
 
 Your performance and evaluation in the practicum is largely a reflection of your professionalism. 
 
-1. Be on time and end on time for all appointments.  This is easier said than done so do your best to be aware of time.
-2. Be polite and respectful to all staff.
-3. It's appropriate to consult.  A general rule is to consult and talk about your client as if the client and Dr. Bedics were present.
-4. Feel free to call Dr. Bedics to dicuss your cases at anytime.  Simply text Dr. Bedics that you would like to talk but _do not_ include a client name or information.
+1. Please pay attention at the clinic orientation and be aware of the clinic's policies and procedures. When you have a clinic question you should refer to orientation materials prior to asking staff. 
+2. Plan to be early for all your appointments. The parking at Westlake is often full and challenging to find a spot. Give yourself time.
+3. Be polite and respectful to all staff.  I frequently ask staff about your interations with them. 
+4. End all client sessions on-time, at :45 past the hour. Clinicians need to set-up after you.  This means you need to start winding down your sessions but :35 past the hour. 
+5. You should not talk about your clients openly in the office or outside of purposeful and intentional consultation with people who have a responsbility to that client (i.e., Dr. Bedics, Dr. Kumar, on-call supervisor).  Feel free to call Dr. Bedics to dicuss your cases at anytime.  Simply text Dr. Bedics that you would like to talk but _do not_ include a client name or information.
+6. Dress appropriately at the clinic.  All tatttos must be covered (including feet).  The rule is business casual.  No need for ties or anything that formal.  See clinic policies.  The best is to be conservative and boring.  
 
 ## First Session Checklist
 
 Review Jamie's **[Suicide Training Presentation](https://speakerdeck.com/jdbedics/clu-2018-community-counseling-safety-training)** before meeting with clients and be prepared to conduct safety planning as needed. Keep the *essential sheets* with you and ready for every session.
    
-
 **Checklist:**
 
 I recommend printing this page our and bringing with you to the first session.  Check the list off as you accomplish each task.
@@ -44,8 +45,6 @@ I recommend printing this page our and bringing with you to the first session.  
 
   * Orient to behavior therapy.  Tell the client that you conduct short-term problem solving therapy.  Sessions range from 8-10 weeks.  The client can renew after the initial block of sessions.  You can validate that this is likely different from their expectations or therapy that they have had in the past. The first few sessions are unusual as they involve getting to know each other and the completion of the intake form.  After several sessions, you and client review progress and  agree on termination/renewal time.
 
-  * Complete the DBT General Note and start drafting the treatment plan using the CLU template on Titanium.
-
 Students should feel free to save this checklist as a PDF and print this page out for each new client. 
 
 3. You're allowed to take written notes, use a clipboard, and write on the white board during all sessions. By default, use these methods sparingly and only as a means to help you engage the client in the spirit of problem solving. 
@@ -53,13 +52,12 @@ Students should feel free to save this checklist as a PDF and print this page ou
 ## Continuing Sessions
 
 1. Set the recording up early. Minimize the screen **and** turn the monitor off.
-2. Review the OQ _prior_ to seeing your client. You shoud consider commenting on the OQ in the following situations:
+2. You might have a therapist in the room before you that ends their sessions late. If that's the case, simply ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to clinic staff, the clinic director, or Dr. Bedics.
+3. Review the OQ _prior_ to seeing your client. You shoud always comment on the OQ. Examples include:
     * High or Moderate distress with no change in status from baseline
     * Any note of an increase in a critical item 
     * Significant improvement from baseline
-3.  Set a collaborative agenda. Comment on the OQ in doing so. The simple act of asking your client about the OQ shows its importance to you and is often corrective by itself.
-
-4. You might have a therapist in the room before you that ends their sessions late. If that's the case, simply ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to clinic staff, the clinic director, or Dr. Bedics.
+5.  Set a collaborative agenda. Comment on the OQ in doing so. The simple act of asking your client about the OQ shows its importance to you and is often corrective by itself.
 5. Complete all notes within *one* week. 
 6. Use the DBT General Note for individual sessions.  This is the standard note for your clients when you are supervised by Jamie. 
 

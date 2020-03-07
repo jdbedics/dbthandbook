@@ -16,21 +16,21 @@ All new members to a DBT Team need to have a commitment session.  This is true e
 
 6. Be willing to give clinical advice to people that have more experience than you (including your supervisor).
 
-7.	Function as a therapist in the group (to the group) and not just be a silent observer or a person that only speaks about their own problems.
+7. Function as a therapist in the group (to the group) and not just be a silent observer or a person that only speaks about their own problems.
 
-8.	To have the humility to admit your mistakes/difficulties and the willingness to have the group help you solve them.
+8. To have the humility to admit your mistakes/difficulties and the willingness to have the group help you solve them.
 
-9.	To be nonjudgmental and compassionate of your fellow clinicians and clients.  To ring the bell of nonjudgmentalness to remind yourself to not be judgmental.  The bell is a reminder and not a sensor.
+9. To be nonjudgmental and compassionate of your fellow clinicians and clients.  To ring the bell of nonjudgmentalness to remind yourself to not be judgmental. The bell is a reminder and not a sensor.
 
 10.	To properly assess the problem before giving solutions.
 
-11.	To be willing to go through a chain analysis even though you were only 31 seconds late and you would have been there on time if it wasn't for those traffic lights on Lynn or the parking around the Bell House.  Show up on time or call.
+11.	To be willing to go through a chain analysis even though you were only 31 seconds late and you would have been there wasn't a line for the microwave or the bathroom in the Bell House.  Show up on time or go through a chain.
 
 12.	If you feel that the consult team is not being useful or you don't like the way it is being run, to say something about it rather than silently stewing in frustration. 
 
 13.	Be prepared to feel burnt out, frustrated, tired, overworked, underappreciated, hopeless, ineffective and yet - to carry on (easier committed than done, of course).
 
-14.	Participate in team by doing the roles of Leader, Observer, Note Taker, Mindfulness and Phones.
+14.	Participate in team by doing the roles of Leader, Observer, Note Taker, and Mindfulness.
 
 15.	No one can be on team and be unavailable to see a patient.  Know your limits and also be flexible.
 
@@ -40,7 +40,7 @@ All new members to a DBT Team need to have a commitment session.  This is true e
 
 17.	The best question to ask the other team members is "What experiences have you had that seriously tested your commitment to the team and how on Earth and why on Earth did you still keep your commitment?"
 
-18.	Willing to be on call 24/7 for your clients in comprehensive DBT only.
+18.	Willing to be on call 24/7 for your clients (comprehensive DBT only).
 
 19.	Willing to not miss more than 2 weeks of therapy with an individual comprehensive DBT client during the entire practicum.
 
