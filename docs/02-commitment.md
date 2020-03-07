@@ -24,7 +24,7 @@ All new members to a DBT Team need to have a commitment session.  This is true e
 
 10.	To properly assess the problem before giving solutions.
 
-11.	To be willing to go through a chain analysis even though you were only 31 seconds late and you would have been there wasn't a line for the microwave or the bathroom in the Bell House.  Show up on time or go through a chain.
+11.	To be willing to go through a chain analysis even though you were only 31 seconds late and you would have been on-time if there wasn't a line for the microwave or the bathroom in the Bell House.  Show up on time or go through a chain.
 
 12.	If you feel that the consult team is not being useful or you don't like the way it is being run, to say something about it rather than silently stewing in frustration. 
 
