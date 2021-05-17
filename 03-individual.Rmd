@@ -10,10 +10,10 @@ Your performance and evaluation in the practicum is largely a reflection of your
 
 1. Please pay attention at the clinic orientation and be aware of the clinic's policies and procedures. When you have a clinic question you should refer to orientation materials prior to asking staff. 
 2. Plan to be early for all your appointments. The parking at Westlake is often full and challenging to find a spot. Give yourself time.
-3. Be polite and respectful to all staff.  I frequently ask staff about your interations with them. 
+3. Be polite and respectful to all staff.  I frequently ask staff about your interactions with them. 
 4. End all client sessions on-time, at :45 past the hour. Clinicians need to set-up after you.  This means you need to start winding down your sessions but :35 past the hour. 
-5. You should not talk about your clients openly in the office or outside of purposeful and intentional consultation with people who have a responsbility to that client (i.e., Dr. Bedics, Dr. Kumar, on-call supervisor).  Feel free to call Dr. Bedics to dicuss your cases at anytime.  Simply text Dr. Bedics that you would like to talk but _do not_ include a client name or information.
-6. Dress appropriately at the clinic.  All tatttos must be covered (including feet).  The rule is business casual.  No need for ties or anything that formal.  See clinic policies.  The best is to be conservative and boring.  
+5. You should not talk about your clients openly in the office or outside of purposeful and intentional consultation with people who have a responsibility to that client (i.e., Dr. Bedics, the clinic director, on-call supervisor).  Feel free to call Dr. Bedics to discuss your cases at anytime.  Simply text Dr. Bedics that you would like to talk but _do not_ include a client name or information.
+6. Dress appropriately at the clinic.  All tattoos must be covered (including feet).  The rule is business casual.  No need for ties or anything that formal.  See clinic policies.  The best is to be conservative and boring.  
 
 ## First Session Checklist
 
@@ -39,7 +39,7 @@ I recommend printing this page our and bringing with you to the first session.  
 
   * Orient them to the OQ and answer their questions.
 
-  * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logisitics.
+  * Confirm the phone number on file and ask if you can leave a message on their phone if you have to call about logistics.
 
   * Remind them that you start at the top of the hour and sessions last 45-minutes.  You can tell them that you manage time and will look at the clock and comment on time as you proceed.  The goal is to make sure they are getting what they want out of the session and are covering everything they intended to have covered.
 
@@ -53,7 +53,7 @@ Students should feel free to save this checklist as a PDF and print this page ou
 
 1. Set the recording up early. Minimize the screen **and** turn the monitor off.
 2. You might have a therapist in the room before you that ends their sessions late. If that's the case, simply ask them if they plan on continuing to do that in the future.  If so, try to find another room.  If there is no other room, or you'd rather not have that option, talk to clinic staff, the clinic director, or Dr. Bedics.
-3. Review the OQ _prior_ to seeing your client. You shoud always comment on the OQ. Examples include:
+3. Review the OQ _prior_ to seeing your client. You should always comment on the OQ. Examples include:
     * High or Moderate distress with no change in status from baseline
     * Any note of an increase in a critical item 
     * Significant improvement from baseline
@@ -78,7 +78,7 @@ The therapist is then responsible for following up and revising during the cours
 As a default, tell your client that you conduct short-term problem solving therapy.  Sessions last between 8-10 sessions with an option to renew.
 
 * After 2-3 sessions, let your client know your plan for intervention along with a timeline for termination.
-    * If you're not following an exact protocol then I often make a fairly aribtrary timeline.  For example, if we start on Sept 1st then I'll set a time to end right before Thanksgiving.  
+    * If you're not following an exact protocol then I often make a fairly arbitrary timeline.  For example, if we start on Sept 1st then I'll set a time to end right before Thanksgiving.  
 * Let your client know that treatment will be reassessed at that point and could be extended if the client would like to address additional areas.
 * When there is a a month left in treatment, remind the client every session that treatment is ending in order to focus your time. 
 * In _DBT only_, discuss the concept of ex-therapist for life. 
