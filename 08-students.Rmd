@@ -5,7 +5,7 @@ The following students have completed or are completing the full DBT Practicum a
 
 ### Current DBT Practicum Students
 
-
+**2021-2022**
 
 
 
