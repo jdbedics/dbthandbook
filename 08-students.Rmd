@@ -7,6 +7,7 @@ The following students have completed or are completing the full DBT Practicum a
 
 **2021-2022**
 
+Madison Pappous, Jatsiri Carrillo Cuevas, Rachael Karp
 
 
 ### CLU DBT Practicum Alumni
